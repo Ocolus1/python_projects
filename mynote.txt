@@ -1,0 +1,49 @@
+I installed some modules like "pip3 install PyAudio
+pip3 install face_recognition
+pip3 install -U selenium
+pip3 install opencv-contrib-python
+pip3 install opencv-python
+pip3 install pyautogui
+pip3 install SpeechRecognition
+pip3 install pyttsx3
+"......
+
+####### WEBBROWSER => pyweb.py
+I made use of the webbrowser module 
+it is used for search through a website 
+kind of like scraping but it takes you to
+website instead
+
+
+###### PYAUTOGUI => control.py
+This module can be use to control the 
+mouse and keyboard of the primary user,
+it can also be used to take screenshot of
+the screen.
+
+
+###### SUBPROCESS => sub.py
+This module is used to perform terminal
+operation in the text file
+
+
+###### PYTTSX3 => speaking.py
+It is used to convert text to 
+speech
+
+
+###### OPENCV(cv2) => recog.py
+It can be used to alter an image 
+and take photo
+
+
+###### SPEECH-RECOGNITION => speech_recog.py
+This module recognizes your voice and prints out what 
+you say like speech to text software
+
+
+###### FACE-RECOGNITION => face.py
+This module is used for
+checking if the face is the same
+pulling faces out of image
+and finding the location of a face
